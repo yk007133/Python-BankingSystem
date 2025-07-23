@@ -45,6 +45,12 @@ Open a terminal in the project folder.
 **python bank_app.py**
 
 ---
+
+ ## 🔖 License
+
+This project is for educational/demo purposes and does not store data permanently. No actual financial transactions occur.
+
+---
 ## 📝 Example Usage
 ```text
 Enter which you want (1-5) - 1
